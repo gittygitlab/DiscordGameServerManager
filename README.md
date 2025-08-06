@@ -31,5 +31,5 @@ This bot aims to provide a simple, centralized control panel within Discord for 
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/DiscordGameServerManager.git](https://github.com/your-username/DiscordGameServerManager.git)
+git clone [https://github.com/gittygitlab/DiscordGameServerManager.git](https://github.com/gittygitlab/DiscordGameServerManager.git)
 cd DiscordGameServerManager
